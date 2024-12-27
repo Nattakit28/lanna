@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lanna/static/css/main.6689ae0f.css",
+    "main.js": "/lanna/static/js/main.a1e6f949.js",
+    "static/media/2020-11-09.jpg": "/lanna/static/media/2020-11-09.3d8c528856e27a52e642.jpg",
+    "index.html": "/lanna/index.html",
+    "main.6689ae0f.css.map": "/lanna/static/css/main.6689ae0f.css.map",
+    "main.a1e6f949.js.map": "/lanna/static/js/main.a1e6f949.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6689ae0f.css",
+    "static/js/main.a1e6f949.js"
+  ]
+}
