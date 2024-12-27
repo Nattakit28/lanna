@@ -29,7 +29,7 @@ const Menu = () => {
         </div>
 
         <div className="info-image">
-          <img src="/images/college.jpg" alt="Lanna Polytechnic College" />
+          <img src="https://www.lannapoly.ac.th/web/assets/img-it-UTNwL-IP.jpeg" alt="Lanna Polytechnic College" />
         </div>
       </div>
     </section>
