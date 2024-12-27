@@ -3,7 +3,8 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import Menu from './pages/Menu';
-import Cart from './pages/Cart';
+import Courses from './pages/Courses';
+import Contact from './pages/Contact';
 import './App.css';
 
 const App = () => {
@@ -20,7 +21,8 @@ const App = () => {
       <main>
         <Home />
         <Menu addToCart={addToCart} />
-        <Cart cart={cart} />
+        <Courses />
+        <Contact />
       </main>
       <Footer />
     </div>
